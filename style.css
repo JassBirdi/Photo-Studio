@@ -1,0 +1,74 @@
+.nav-link{
+    color: white !important;
+    font-size: 20px;
+}
+.nav-link:hover{
+    background:rgb(106, 197, 106) !important;
+
+}
+.dropdown-item:hover{
+    background:rgb(106, 197, 106) !important;
+}
+.dropdown-item{
+    color: white !important;
+    font-size: 20px;
+    
+}
+.phone-number{
+    color: honeydew;
+
+}
+/*----about----*/
+.about-img{
+    height: 400px;
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: auto;
+}
+.about-heading{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: 0;
+}
+.heading{
+    color:rgb(106, 197, 106);
+
+}
+/*------Gallery---*/
+.gallery{
+    background:rgb(214, 195, 195);
+}
+.gallery-img{
+    height:200px;
+    width: 350px;
+    transition: all 1s ease-in-out;
+    padding-bottom: auto;
+}
+.img-container{
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  .img-container:hover .gallery-img{
+    transform:scale(1.2);
+  }
+  /*---contact-------*/
+  .contact{
+      color: honeydew;
+      font-size:20px;
+      background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(img/contact-us.jpg);
+  }
+  .btn-success{
+      align-self: cent;
+  }
+  /*-------footer----*/
+  .foot{
+      color: ivory !important;
+      font-size: 50px;
+      font-family: 'Dancing Script', cursive;
+  }
+  .footer-icon{
+      color: ivory !important;
+      font-size:40px;
+      padding-left: 4px;
+  }
