@@ -1,2 +1,2 @@
-# cake-s-wolrd
+# Photo studio
 It's created with the help of html,css,bootstrap mainly and it's totally responsive site.
